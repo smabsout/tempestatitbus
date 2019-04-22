@@ -1,0 +1,103 @@
+html{
+
+}
+
+html{
+    background-color: hsl(218, 50%, 17%)
+}
+
+header {
+    color:white;
+    font-size: 24pt;
+    font-family: 'Monoton', cursive;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+img {
+    width: 20%;
+    height: auto;
+}
+
+
+#current-temperature {
+    font-family: 'Nunito Sans', cursive;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.weather-card {
+    background-color: hsl(210, 36%, 96%);
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-header {
+    font-family: 'Nunito Sans', cursive;
+    font-weight: lighter;
+    font-size: 18px;
+    text-align: center;
+}
+#location-current {
+    font-family: 'Nunito Sans', cursive;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+#current-overview {
+    font-family: 'Nunito Sans', cursive;
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+}
+#weather-wordy-status {
+    font-family: 'Nunito Sans', cursive;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.detail-card {
+    font-family: 'Nunito Sans', cursive;
+    font-weight: light;
+    font-size:  32px;
+   margin-top: 15px;
+   text-align: center;
+}
+
+.weekly-detail-title {
+    text-align: center;
+}
+
+.weekly-detail-card {
+    font-family: 'Nunito Sans', cursive;
+    font-weight: light;
+    font-size:  18px;
+   margin-top: 15px;
+   text-align: center;
+}
+
+.weekly-card-header {
+    font-family: 'Nunito Sans', cursive;
+    font-weight: lighter;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.detail-title {
+    text-align: center;
+}
+
+
+#city-search {
+    color: white;
+}
+
+.headlines {
+    text-align: left;
+    padding: 5px;
+
+}
